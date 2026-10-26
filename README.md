@@ -260,3 +260,5 @@ Split the original image into Blue, Green, and Red (BGR) components and display 
 
 <img width="290" height="423" alt="image" src="https://github.com/user-attachments/assets/189b8879-be46-4b1e-814d-0decfa2c6051" />
 
+## Result:
+Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
